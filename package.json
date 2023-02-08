@@ -1,0 +1,22 @@
+{
+  "name": "the-gym.co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwind -i ./src/tailwind.css -o ./tailwind.css --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00lar/The-gym.co.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00lar/The-gym.co/issues"
+  },
+  "homepage": "https://github.com/00lar/The-gym.co#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
